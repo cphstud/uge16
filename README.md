@@ -25,4 +25,4 @@ Mødes på [zoom](https://cphbusiness.zoom.us/j/61857075410?pwd=SEZYODQwYStYdVI1
 ### Opgaver til dagen
 #### TravelGuide - Beregning af drikkepenge
 #### XLByg - Bestilling af en trappe
-#### EuropCar - Flytning af biler
+#### Riddle - Gåde-bygger ud fra test-klasse
