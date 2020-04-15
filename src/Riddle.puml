@@ -1,0 +1,35 @@
+@startuml
+abstract class Item {
+String : name
+Strength : strength
+Boolean : isPickedUp
+--
+
+--
+pickup()
+}
+
+class Key {
+pickup()
+}
+class Riddle {
+int:level
+String:name
+boolean:isSolved
+--
+solveRiddle()
+
+}
+Item <|-- Key
+Key o-- Riddle
+
+
+
+
+enum Strength {
+DAYS
+HOURS
+MINUTES
+}
+
+@enduml
